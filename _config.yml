@@ -1,6 +1,6 @@
 # Site settings
-title: HEY.
-email:
+title: Sonomètre
+email: oekreor@zekrer.fr
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,15 +9,15 @@ baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://clairebirgand.github.io/" # the base hostname & protocol for your site
 
 # User setting
-owner:
+owner: "Claire BIRGAND"
 email:
-facebook_username:
+facebook_username: https://www.facebook.com/saintgregoire.rennesmetropolehandball/
 twitter_username:
-github_username:
+github_username: clairebirgand
 address:
-  - line:
-  - line:
-  # Feel free to add more lines here 
+  - line: 13 allée du Tage
+  - line: 35200 RENNES
+  # Feel free to add more lines here
 telephone:
 copyright:
 
