@@ -35,6 +35,9 @@ body {
 
 .btn-dark {
     border-radius: 0;
+    color: #fff;
+    background-color: rgba(0,0,0,0.4);
+}
 
 .btn-dark:hover,
 .btn-dark:focus,
@@ -48,6 +51,9 @@ body {
     color: #333;
     background-color: rgb(255,255,255);
 }
+
+.btn-light:hover,
+.btn-light:focus,
 .btn-light:active {
     color: #333;
     background-color: rgba(255,255,255,0.8);
@@ -81,6 +87,11 @@ hr.small {
     position: absolute;
     top: 0;
     width: 250px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
 .sidebar-nav li {
     text-indent: 20px;
     line-height: 40px;

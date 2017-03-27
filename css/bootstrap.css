@@ -405,8 +405,12 @@ th {
 }
 .glyphicon-headphones:before {
   content: "\e035";
-}color036";
 }
+
+.glyphicon-volume-off:before {
+  content: "\e036";
+}
+
 .glyphicon-volume-down:before {
   content: "\e037";
 }
